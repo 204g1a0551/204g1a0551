@@ -13,7 +13,6 @@ I am a dedicated and highly motivated fresher seeking to leverage my technical s
 ## 📫 Contact
 
 - **Email:** maheshkumargodela@gmail.com
-- **Phone:** +91 7989979634
 - **Location:** Anantapur, India
 
 ---
