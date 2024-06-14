@@ -46,6 +46,10 @@ Created a cloud-based calculator application leveraging AWS services to perform 
 **August 2022**  
 Developed a Java console application for managing website passwords with PostgreSQL. Enabled secure storage, retrieval, update, and deletion of passwords. Open to contributions, licensed under MIT.
 
+### [MovieStore](https://github.com/204g1a0551/MovieStore1)
+**May 2024**  
+MovieStore is a React-based platform for browsing and purchasing movies, featuring detailed listings and a user-friendly interface.
+
 ---
 
 ## 📚 Education
